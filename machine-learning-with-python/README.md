@@ -1,5 +1,5 @@
 
-# The Complete Machine Learning Course with Python
+# The Complete Machine Learning Tutorial with Python
 
 These are my notes for the above course. 
 
